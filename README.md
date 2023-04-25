@@ -1,6 +1,6 @@
 # multi_chat
 multi_chat
-Computer Networks - Group project made with https://github.com/dardwo
+Computer Networks - Group project made with https://github.com/micwuj
 
 Python code is for a chat client that connects to a chat server using TCP sockets. The client prompts the user for a name, connects to the server, and then listens for incoming messages in a separate thread. The user can enter a message to send to the server, which will be broadcasted to all connected clients.
 
